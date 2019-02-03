@@ -1,3 +1,4 @@
+/// <reference types="cypress" />
 // @ts-check
 /* eslint-env mocha */
 describe('todos API', () => {
